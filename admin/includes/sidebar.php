@@ -2,10 +2,10 @@
                 <div class="side-nav-wrapper">
                     <div class="sidebar-profile">
                         <div class="sidebar-profile-image">
-                            <img src="../assets/images/profile-image.png" class="circle" alt="">
+                            <img src="../assets/images/alpha_dei.png" class="" alt="" style="width: 150px;height: 100px;">
                         </div>
                         <div class="sidebar-profile-info">
-                            <p>Admin</p>
+                            Tu mejor Administrador de Nomina
                         </div>
                     </div>
             
